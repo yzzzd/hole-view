@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">List</string>
+    <array name="array_title">
+        <item>Lorem ipsum dolor</item>
+        <item>Arcu montes</item>
+        <item>Vel sollicitudin</item>
+        <item>Rhoncus elementum</item>
+        <item>Cubilia Habitant</item>
+        <item>Tortor Dignissim</item>
+    </array>
+
+    <array name="array_content">
+        <item>Morbi quis natoque dapibus a Neque. Curabitur taciti parturient tempor.</item>
+        <item>Ipsum proin fusce metus a platea aptent, bibendum eleifend. Fames laoreet cubilia conubia pulvinar ornare morbi.</item>
+        <item>Sociis sed arcu faucibus eros erat pharetra enim iaculis semper in parturient turpis odio Purus.</item>
+        <item>Malesuada arcu viverra facilisi malesuada sociosqu dapibus mauris lectus luctus.</item>
+        <item>Malesuada arcu viverra facilisi malesuada sociosqu dapibus mauris lectus luctus. Sem feugiat auctor.</item>
+        <item>Duis orci molestie leo sociosqu aptent sodales tempus odio potenti lobortis imperdiet nisl felis magna. Eros tellus ullamcorper sociosqu suspendisse elementum urna molestie.</item>
+    </array>
+</resources>

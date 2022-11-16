@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650753021279",
+    "project_id": "kelas-industri-ac76e",
+    "storage_bucket": "kelas-industri-ac76e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650753021279:android:e051f3e19bfb4a109792ea",
+        "android_client_info": {
+          "package_name": "com.yzzzd.kelasindustri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650753021279-5d1a66amg8ncri5j8qeluj8hkvhe1bi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0XHwuLHOUmNDKC5XwFwFAMCgjk2QGxDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650753021279-5d1a66amg8ncri5j8qeluj8hkvhe1bi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
